@@ -18,11 +18,7 @@
 
 
 ### A little bit about me  
-I am a fresh graduate in Computer Science & Engineering. Currently, I am looking for an opportunity to work in a challenging organization to utilize my skills and knowledge to work for the growth of the organization. 
-
-I am a self-motivated, highly passionate, and hardworking person. Being a tech enthusiast, I am committed to learning new technologies and applying them to solve challenging problems. I have worked on several personal projects that I am proud of & looking forward to stepping into my professional career.
-
-  
+Highly motivated and detail-oriented junior software engineer with a passion for developing efficient and user-friendly web applications. Skilled in Ruby on Rails, Node.js, and Express.js, I thrive in dynamic and collaborative environments where I can contribute to innovative solutions.
   
 
 <br/>  
